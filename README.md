@@ -18,7 +18,7 @@ Designing a combat soccer bot with Arduino and motor controller.
 1. Connect the Bluetooth module with the Arduino to pins according to the diagram. Connect the 5v 
 pin and ground of the Arduino to power up Bluetooth module.
 2. Connect the motors parallelly & connect the positive & negative wires according to the BTS 
-motor’s to the M+ & M- point. Now connect the battery with the motor controller with B+ & Bpoint. Then connect another motor controller parallelly.
+motor’s to the M+ & M- point. Now connect the battery with the motor controller with B+ & B - point. Then connect another motor controller parallelly.
 3. Connect another 2 parallelly connected motors with the motor controller.
 4. Connect the motor controllers’ pin with the Arduino according to the circuit diagram.
 5. Connect the battery with buck converter, adjust the buck converter’s voltage to 5v and connect 
