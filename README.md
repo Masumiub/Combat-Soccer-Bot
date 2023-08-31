@@ -14,6 +14,9 @@ Designing a combat soccer bot with Arduino and motor controller.
 - Battery 2200mAh (Quantity - 1)
 - Charger B3 (Quantity - 1)
 
+# Preview
+![soccer bot copy](https://github.com/Masumiub/Combat-Soccer-Bot/assets/66321598/3bddb640-2817-42e3-abcc-c45740f4383e)
+
 # Procedure:
 1. Connect the Bluetooth module with the Arduino to pins according to the diagram. Connect the 5v 
 pin and ground of the Arduino to power up Bluetooth module.
