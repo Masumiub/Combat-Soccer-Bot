@@ -2,17 +2,17 @@
 Designing a combat soccer bot with Arduino and motor controller.
 
 # Elements
-• Arduino- Uno (Quantity - 1)
-• Buck converter (Quantity - 1)
-• BTS 7960 Motor controller (Quantity - 2)
-• Shaft coupler short (Quantity - 4)
-• Flat wheel (Quantity - 4)
-• Bracket 36mm Mount (Quantity - 4)
-• 300 RPM DC 37mm motor (Quantity - 4)
-• HC-05 Bluetooth Module (Quantity - 1)
-• T-connector (Quantity - 1) 
-• Battery 2200mAh (Quantity - 1)
-• Charger B3 (Quantity - 1)
+- Arduino- Uno (Quantity - 1)
+- Buck converter (Quantity - 1)
+- BTS 7960 Motor controller (Quantity - 2)
+- Shaft coupler short (Quantity - 4)
+- Flat wheel (Quantity - 4)
+- Bracket 36mm Mount (Quantity - 4)
+- 300 RPM DC 37mm motor (Quantity - 4)
+- HC-05 Bluetooth Module (Quantity - 1)
+- T-connector (Quantity - 1) 
+- Battery 2200mAh (Quantity - 1)
+- Charger B3 (Quantity - 1)
 
 # Procedure:
 1. Connect the Bluetooth module with the Arduino to pins according to the diagram. Connect the 5v 
